@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Report an issue / 提交问题
+name: U20 / F50 通用问题反馈 / Bug report
+about: U20 / F50 issue report (logs & version info recommended) / 问题反馈（建议附日志与版本信息）
 ---
 
 ## Before posting / 发帖前确认
